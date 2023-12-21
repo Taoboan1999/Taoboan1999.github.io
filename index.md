@@ -4,12 +4,11 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Ph.D. student at the College of Intelligence and Computing of Tianjin University, studying with Prof. Pengfei Zhu. My research interests are on computer vision, particularly drones and intelligent vehicles.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Computer Vision:** Cross-domain, Heterogeneous, Multi-intelligence, Co-perception
 
 ## News
 
