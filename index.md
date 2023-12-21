@@ -12,7 +12,7 @@ I am a Ph.D. student at the College of Intelligence and Computing of Tianjin Uni
 
 ## News
 
-- **[Aug. 2023]** The 3rd Air Force "Unmanned Competition" Intelligent Unmanned Aircraft Cluster System Challenge - "Call of Duty" - **Champion**.
+- **[Aug. 2023]** The 3rd Air Force "Unmanned Competition" Intelligent Unmanned Aircraft Cluster System Challenge - Changchun Final - **Champion**.
 - **[Nov. 2022]** Robotics Competition for College Students in Five Provinces (Municipalities and Autonomous Regions) of North China - Beijing Final - **Second Prize**.
 - **[Aug. 2022]** The 17th National Intelligent Vehicle Competition for College Students - Nanjing Final (Baidu Intelligent Transportation Group) - **First Prize**.
 - **[Dec. 2021]** The 23rd China Robotics and Artificial Intelligence Competition - Online Final (Driverless Challenge) - **First Prize**.
