@@ -4,11 +4,11 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at the College of Intelligence and Computing of Tianjin University, studying with Prof. Pengfei Zhu. My research interests are on computer vision, particularly drones and intelligent vehicles.
+I am a PhD student in the Vision Group of the Machine Learning and Data Mining Laboratory at Tianjin University, supervised by Professor Pengfei Zhu. I received my B.S. and M.S. degrees from Tianjin University in 2021 and 2023, respectively. My research interests are on computer vision, particularly drones and intelligent vehicles.
 
 ## Research Interests
 
-- **Computer Vision:** Cross-domain, Heterogeneous, Multi-intelligence, Co-perception
+- **Computer Vision:**  Object Detection
 
 ## News
 
