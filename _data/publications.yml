@@ -12,15 +12,15 @@
 
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
+  - title: Local and Long-range Convolutional LSTM Network: A novel multi-step wind speed prediction approach for modeling local and long-range spatial correlations based on ConvLSTM
+    authors: Mei Yu, <strong>Boan Tao</strong>, Xuewei Li, Zhiqiang Liu, Wei Xiong* (*Corresponding authors)
+    conference_short: EAAI
+    conference: Engineering Applications of Artificial Intelligence <strong>(EAAI)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2306.00988.pdf
     code: https://github.com/MrGiovanni/ContinualLearning
     bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+    image: ./assets/img/LLConvLSTM.png
+    notes: Accept
 
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
     authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
