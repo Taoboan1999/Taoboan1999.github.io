@@ -10,8 +10,10 @@ Hi! I am a PhD student in the Vision Group of the Machine Learning and Data Mini
 
 - **Computer Vision:**  Object Detection
 
-## News
+{% include_relative _includes/publications.md %}
 
+## News
+- **[Apr. 2024]** "Local and Long-range Convolutional LSTM Network: A novel multi-step wind speed prediction approach for modeling local and long-range spatial correlations based on ConvLSTM" has been accepted by Engineering Applications of Artificial Intelligence (EAAI). - **SCI 1**.
 - **[Aug. 2023]** The 3rd Air Force "Unmanned Competition" Intelligent Unmanned Aircraft Cluster System Challenge - Changchun Final - **Champion**.
 - **[Nov. 2022]** Robotics Competition for College Students in Five Provinces (Municipalities and Autonomous Regions) of North China - Beijing Final - **Second Prize**.
 - **[Aug. 2022]** The 17th National Intelligent Vehicle Competition for College Students - Nanjing Final (Baidu Intelligent Transportation Group) - **First Prize**.
@@ -25,4 +27,4 @@ Hi! I am a PhD student in the Vision Group of the Machine Learning and Data Mini
 - **[Oct. 2019]** The 21st China Robotics and Artificial Intelligence Competition - Qingdao Final (Driverless Intelligent Vehicle Racing) - **First Prize**.
 - **[Aug. 2019]** The 14th National Intelligent Vehicle Competition for College Students - Weihai Final (Outdoor Optical ROS Creative Group) - **Second Prize**.
 
-{% include_relative _includes/publications.md %}
+
