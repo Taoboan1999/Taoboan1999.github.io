@@ -1,22 +1,12 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: Local and Long-range Convolutional LSTM Network: A novel multi-step wind speed prediction approach for modeling local and long-range spatial correlations based on ConvLSTM
+    authors: Mei Yu, <strong>Boan Tao</strong>, Xuewei Li, Zhiqiang Liu, Wei Xiong* (*Corresponding authors)
+    journal_short: EAAI
+    journal: Engineering Applications of Artificial Intelligence <strong>(EAAI)</strong>, 2024.
+    pdf: https://pdf.sciencedirectassets.com/271095/1-s2.0-S0952197623X00189/1-s2.0-S0952197623017979/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEL7%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQDEQLejU%2BONYQExkeFIzhlYxfOuhe34j9iTDSOiKgPHXgIgLS2wJKB1Qf4U%2BKAW3gxaVvmkWEXGJb8O0i3fUEP84QYqvAUIh%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAFGgwwNTkwMDM1NDY4NjUiDP1%2F%2Bv%2B6NPAT0HvQ7iqQBdDmPG5bC%2B7n%2Fe8PW2AnVMzefkdxK7djcN2ugSa5HsclIwW1gmNm5fTbqukWdFDeze0WQmOu0fMTNNkcCEswHgVnxKY3JEh1CGJaVT6lobHqmtSmATqQMm6iVfkEEiXHPa8nV2ffHYwHJSzZvOmtcRRi6K6E37UxnCuNusSm%2F18sS9MozM7rWk9RyajrovGpiRVHmEbJyJpvlnPxYJqjqAhnd6dQ8SGyn7wQzQ8jNcbLqGpZ8N%2BkHg%2BD%2FhWRNinrD33GPa2WckyeGhtqeJR7tu9Bl%2FrGX7gX6tb4e315NxmaBgf2ZETd8hCA7MqR04IywT68GFGk7MxTGUmWx5YPImjXdnhhiGIcDgbrgeU5yuivBgmuQ5LlBQ6xaxajKBDhqodxC2tmtHd57K7e9uGfdamhSH2Jc8UvMDBSr95jNRyB%2BqOl%2FwGmyAh8cn86HRniMayO6amafefrNWxtSa49FycY80WlVgfBu8AjJVBXumDlQP%2F06kBZg9grC%2FSEUiIHCrBTwV7a9DUr%2BkU0rWRdIaehStJTQQJRr2OMpnETbX8fzFtnFgPyl4w4AYHmFhkQsBvafjWAgKEDJJIXcVlaoCM0a1zD5Gb%2Bi0xzEqECI5UASv%2Fhzzuh0BA6fWeWTEUqEqr%2FRchTCkAlG1zMl4zcHdhWQ7nPkPU385Bb2%2F2XZbNbxCttJoM0v8z6ZnfxfyohAFg%2FFIAzv8%2F0GXFayZGBhXXBIYqopfwq29JVI1DX3G8CkAAZLE29Fhtj3M%2FjapxZq4kvpInIT3EcGsApJee7zIx5g%2Bcdx38i9rCuorqMAe3uhJQh3Lbnt0ovWVy1B2Ax%2FjzkDbdObYI3a1fMcBiBFAhMGdVC6TLE8aocEIDgo7tlMM3v38EGOrEBH99SpHIC9hq8LrcRkFTt6Rt3vrKNtR66Arp2gelKeHHf%2BD%2BqyLgwdo6JEJbTYPSe753hiSGxqcoZIoFKjRf1nea2897F4KIlnmO7RYwdWQ4RCPo%2Ftn%2Fcm%2FOP%2BdOBEUjMQ0nOpIdVz0GL0d7bzSf2UP%2FO5G%2FgCAlYNwbcBPG31Pfb%2Bdax6jyZtVmU7IOn3V4Rv0RKAR%2FWtFF33LY%2B7ucerUp6g%2BqoloptsJmtX91K1Cks&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250529T063145Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYRRKWSFMX%2F20250529%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=27277841c67bcbc839be41cd95b329dd57ce307ccba709b4a00bc85ed2716a3a&hash=3f7c18c78fe2392ce99219951020cd1acdab278e789737deba3a7034467b1476&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0952197623017979&tid=spdf-9aad101d-d2f5-4a96-94a2-1837de70943e&sid=820615cc822e2745a589d79-759a6baa2969gxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&rh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=05005c57555408555759&rr=9473f3595d1f851e&cc=cn&kca=eyJrZXkiOiJiaEpxdmRxY1FuLzZCRFBCdDROUTRSdFU3Y2VDQXB6NGdKcHJtZzNkYXJXdG1HbUFKNG1RRUhZcThKeWJmdGxqaFFxSndLZ1VYWHBtYlhIOXdSbzlsV3B4QVpqbWlpTEZIUFBqblIvWE5BNnprMXcvYjFoWVNGWGdkYmxpamYvSkdhUTcrc05GUGpoUTkyZ21ZY0xMWitqcVZKVTlRc0l3WFZQMzJJVW50clpyL1NRPSIsIml2IjoiOTAwMDljMTQ2ZWE2N2FhOTdhZjE2MmYyMzJlNmY0Y2UifQ==_1748500313156
+    # code: https://github.com/MrGiovanni/ContinualLearning
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:jUovfrKT4KwJ:scholar.google.com/&output=citation&scisdr=CgKHxyX6EPHZoJsEjBg:AAZF9b8AAAAAaDgClBjzeWDo0jDdwf6TkbIY61c&scisig=AAZF9b8AAAAAaDgClDPQzx7RvrOkrxA5vHJLWgU&scisf=4&ct=citation&cd=-1&hl=zh-CN
+    image: ./assets/img/LLConvLSTM.png
+    notes: Accept
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
