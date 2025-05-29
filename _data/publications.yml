@@ -5,7 +5,7 @@ main:
     conference_short: EAAI
     conference: Engineering Applications of Artificial Intelligence <strong>(EAAI)</strong>, 2024.
     pdf: ./assets/LLConvLSTM.png
-    code: https://github.com/MrGiovanni/ContinualLearning
+    # code: https://github.com/MrGiovanni/ContinualLearning
     bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+    notes: Accept
