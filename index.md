@@ -24,3 +24,5 @@ Hi! I am a PhD student in the Vision Group of the Machine Learning and Data Mini
 - **[Aug. 2020]** The 15th National Intelligent Vehicle Competition for College Students - Nanjing Final (Baidu Deep Learning Creative Group) - **Second Prize**.
 - **[Oct. 2019]** The 21st China Robotics and Artificial Intelligence Competition - Qingdao Final (Driverless Intelligent Vehicle Racing) - **First Prize**.
 - **[Aug. 2019]** The 14th National Intelligent Vehicle Competition for College Students - Weihai Final (Outdoor Optical ROS Creative Group) - **Second Prize**.
+
+{% include_relative _includes/publications.md %}
