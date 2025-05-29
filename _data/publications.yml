@@ -6,6 +6,6 @@ main:
     conference: Engineering Applications of Artificial Intelligence <strong>(EAAI)</strong>, 2024.
     pdf: ./assets/LLConvLSTM.pdf
     # code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:jUovfrKT4KwJ:scholar.google.com/&output=citation&scisdr=CgKHxyX6EPHZoJsZu6E:AAZF9b8AAAAAaDgfo6EZzcNOTM-ZppktkunAZUo&scisig=AAZF9b8AAAAAaDgfo_R-zk2RBoVgW40RbZ4IDNA&scisf=4&ct=citation&cd=-1&hl=zh-CN
     image: ./assets/img/LLConvLSTM.png
     notes: Accept
