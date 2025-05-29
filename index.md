@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hi! I am a PhD student in the Vision Group of the Machine Learning and Data Mining Laboratory at Tianjin University, supervised by Professor Pengfei Zhu. I received my B.S. and M.S. degrees from Tianjin University in 2021 and 2023, respectively. My research interests are on computer vision, particularly drones and intelligent vehicles.
+Hi! I am a PhD student in the Vision Group of the Machine Learning and Data Mining Laboratory at Tianjin University, supervised by Professor Pengfei Zhu. I received my B.S. and M.S. degrees from Tianjin University in 2021 and 2024, respectively. My research interests are on computer vision, particularly drones and intelligent vehicles.
 
 ## Research Interests
 
